@@ -1,3 +1,8 @@
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/burcok/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" height="40"/></a>
+<a href="https://www.instagram.com/buroockq/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" height="40"/></a>
+<a href="https://discord.com/users/368405176736022538" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-1-700x202.png" alt="discord" height="40"/></a>
+
 ### 🔧 Languages and Tools:
 <hr>
 
@@ -19,8 +24,9 @@
 <hr>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=burcok&label=Profile%20views&color=0e75b6&style=flat" alt="burcok" /> </p>
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=burcok&theme=tokyonight&hide_border=false)<br/> 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=burcok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=burcok&theme=dark&hide_border=false)<br/> 
 
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=burcok&label=Profile%20views&color=0e75b6&style=flat" alt="burcok" /> </p>
